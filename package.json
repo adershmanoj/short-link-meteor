@@ -16,5 +16,8 @@
     "react-modal": "^1.6.5",
     "react-router": "^3.0.0",
     "simpl-schema": "0.0.3"
+  },
+  "engines":{
+    "node": "4.6.2"   
   }
 }
